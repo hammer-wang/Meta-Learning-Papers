@@ -150,3 +150,5 @@ Neural Computation, 4(1):131–139, 1992.
 **[50]** Yoonho Lee, Seungjin Choi. **Gradient-Based Meta-Learning with Learned Layerwise Metric and Subspace.** ICML 2018.
 
 **[51]** Alet, F., Lozano-Pérez, T., & Kaelbling, L. P. (2018). **Modular meta-learning.** arXiv preprintarXiv:1806.10166.
+
+**[52]** Net2Net: ACCELERATING LEARNING VIA KNOWLEDGE TRANSFER
